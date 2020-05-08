@@ -1,2 +1,2 @@
 # singolo
-[singolo](https://frosty-bohr-a3ecc8.netlify.com)
+https://anna-agabekyan-singolo-page.netlify.app/
